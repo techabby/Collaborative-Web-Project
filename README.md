@@ -92,3 +92,7 @@ Each group must submit:
 **Instructor:** Adnan Jelani  
 **Course:** Introduction to ICT – Lab 7  
 **Semester:** Fall 2025
+**Team Members: **
+Abdullah Aziz 
+Shayan Haider 
+Mustafa Khan
